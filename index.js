@@ -1,0 +1,1 @@
+javascript:list_p_tag = document.querySelectorAll('p');list_p_tag.forEach(p_tag => p_tag.style.fontFamily="sans-serif");list_p_tag = document.querySelectorAll('li');list_p_tag.forEach(p_tag => p_tag.style.fontFamily="sans-serif");
